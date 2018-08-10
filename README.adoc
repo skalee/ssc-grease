@@ -1,0 +1,35 @@
+= SSC Grease
+
+Greasemonkey (and friends) scripts for SkyScraperCity.com users.
+
+Tested with Greasemonkey on Firefox.  May require minor changes to work on
+Chrome.  May work in IE as well.
+
+== License
+
+Public domain (CC-0).  See link:COPYING[COPYING] for details.
+
+== Scripts
+
+=== Like Icon Highlighter
+
+Highlights the "like" icon if you've already liked that post.
+
+By default, if you already liked some post, the like icon turns red.  If you
+want some different effect, just modify the `color_post` function.  You'll find
+some ideas in source code comments.
+
+Source: link:scripts/like-highlighter.js[like-highlighter.js]
+
+Preview:
+
+image::pics/like-highlighter.png[Preview]
+
+== Contributing
+
+Be aware that everything in this repository will be licensed as public domain.
+Don't make a pull request if it doesn't suit you.
+
+== See also
+
+- https://addons.mozilla.org/pl/firefox/addon/greasemonkey/[Greasemonkey]
