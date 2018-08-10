@@ -25,6 +25,17 @@ Preview:
 
 image::pics/like-highlighter.png[Preview]
 
+=== Likes Counter
+
+Appends the list of people who liked given post with an information about total
+number of these people.
+
+Source: link:scripts/likes-counter.js[likes-counter.js]
+
+Preview (note 36 total in the end):
+
+image::pics/likes-counter.png[Preview]
+
 == Contributing
 
 Be aware that everything in this repository will be licensed as public domain.
