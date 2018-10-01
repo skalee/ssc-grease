@@ -15,7 +15,7 @@ link:likes-counter.js[likes-counter.js]
 
 ==== License
 
-Public domain (CC-0).  See link:COPYING[COPYING] for details.
+Public domain.  See link:COPYING[COPYING] for details.
 
 ==== Contributing
 
