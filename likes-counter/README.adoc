@@ -1,0 +1,28 @@
+=== Likes Counter
+
+Appends the list of people who liked given post with an information about total
+number of these people.
+
+==== Preview
+
+Note 36 total in the end:
+
+image::../pics/likes-counter.png[Preview]
+
+==== Source code
+
+link:likes-counter.js[likes-counter.js]
+
+==== License
+
+Public domain (CC-0).  See link:COPYING[COPYING] for details.
+
+==== Contributing
+
+Be aware that everything in this directory will be licensed as public domain.
+Don't make a pull request if it doesn't suit you.
+
+==== Notes
+
+Tested with Greasemonkey on Firefox.  May require minor changes to work on
+Chrome.  May work in IE as well.

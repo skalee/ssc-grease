@@ -5,41 +5,32 @@ Greasemonkey (and friends) scripts for SkyScraperCity.com users.
 Tested with Greasemonkey on Firefox.  May require minor changes to work on
 Chrome.  May work in IE as well.
 
-== License
-
-Public domain (CC-0).  See link:COPYING[COPYING] for details.
-
 == Scripts
 
-=== Like Icon Highlighter
+=== Like highlighter
 
 Highlights the "like" icon if you've already liked that post.
-
-By default, if you already liked some post, the like icon turns red.  If you
-want some different effect, just modify the `color_post` function.  You'll find
-some ideas in source code comments.
-
-Source: link:scripts/like-highlighter.js[like-highlighter.js]
 
 Preview:
 
 image::pics/like-highlighter.png[Preview]
 
-=== Likes Counter
+(link:like-highlighter[more])
+
+=== Likes counter
 
 Appends the list of people who liked given post with an information about total
 number of these people.
-
-Source: link:scripts/likes-counter.js[likes-counter.js]
 
 Preview (note 36 total in the end):
 
 image::pics/likes-counter.png[Preview]
 
-== Contributing
+(link:likes-counter[more])
 
-Be aware that everything in this repository will be licensed as public domain.
-Don't make a pull request if it doesn't suit you.
+== License
+
+May vary, but always FLOSS or public domain.  See respective READMEs.
 
 == See also
 
