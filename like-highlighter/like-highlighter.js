@@ -1,7 +1,13 @@
 // ==UserScript==
 // @name          Like icon highlighter for SkyScraperCity
-// @description   Tells whether you have liked given post already or not.  Initially developed by me.  Public domain.
+// @description   Tells whether you have liked given post already or not.
+// @description:pl Pokazuje czy zalajkowałeś dany post.
 // @version       1
+// @namespace     https://github.com/skalee/ssc-grease
+// @author        me
+// @license       Unlicense
+// @homepageURL   https://github.com/skalee/ssc-grease
+// @supportURL    https://www.skyscrapercity.com/showthread.php?t=2017475
 // @grant         none
 // @run-at        document-end
 // @include       https://www.skyscrapercity.com/showthread.php?*

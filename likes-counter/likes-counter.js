@@ -1,7 +1,14 @@
 // ==UserScript==
 // @name          Likes counter for SkyScraperCity
-// @description   Initially developed by me. Public domain.
+// @name:pl       Liczydło lajków dla SkyScraperCity
+// @description   Counts likes for given post.
+// @description:pl Zlicza lajki pod postem.
 // @version       1
+// @namespace     https://github.com/skalee/ssc-grease
+// @author        me
+// @license       Unlicense
+// @homepageURL   https://github.com/skalee/ssc-grease
+// @supportURL    https://www.skyscrapercity.com/showthread.php?t=2017475
 // @grant         none
 // @include       https://www.skyscrapercity.com/showthread.php?*
 // @include       https://www.skyscrapercity.com/showpost.php?*
