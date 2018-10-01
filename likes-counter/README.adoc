@@ -11,7 +11,7 @@ image::../pics/likes-counter.png[Preview]
 
 ==== Source code
 
-link:likes-counter.js[likes-counter.js]
+link:likes-counter.user.js[likes-counter.user.js]
 
 ==== License
 

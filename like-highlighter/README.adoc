@@ -12,7 +12,7 @@ image::../pics/like-highlighter.png[Preview]
 
 ==== Source code
 
-link:like-highlighter.js[like-highlighter.js]
+link:like-highlighter.user.js[like-highlighter.user.js]
 
 ==== License
 
