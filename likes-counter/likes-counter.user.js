@@ -3,7 +3,7 @@
 // @name:pl       Liczydło lajków dla SkyScraperCity
 // @description   Counts likes for given post.
 // @description:pl Zlicza lajki pod postem.
-// @version       1
+// @version       2
 // @namespace     https://github.com/skalee/ssc-grease
 // @author        me
 // @license       Unlicense
