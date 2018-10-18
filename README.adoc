@@ -7,6 +7,17 @@ Chrome.  May work in IE as well.
 
 == Scripts
 
+=== Big "go to new post" button (improved)
+
+Makes "Go to new post" button on User CP, and Subscriptions pages way bigger,
+hence easier to click on.
+
+Preview:
+
+image::pics/big-go-to-new-post.png[Preview]
+
+(link:big-go-to-new-post[more])
+
 === Like highlighter
 
 Highlights the "like" icon if you've already liked that post.

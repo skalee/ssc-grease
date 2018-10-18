@@ -1,0 +1,42 @@
+=== Big "go to new post" button (improved)
+
+Makes "Go to new post" button on User CP, and Subscriptions pages way bigger,
+hence easier to click on.
+
+Based on
+"https://greasyfork.org/en/scripts/31838-ssc-bigger-go-to-new-post[SSC Bigger 'Go to new post']"
+by el nino.  Changes:
+
+- UX improvements
+- removal of jQuery dependency
+
+==== Preview
+
+image::../pics/big-go-to-new-post.png[Preview]
+
+==== Source code
+
+link:big-go-to-new-post.user.js[big-go-to-new-post.user.js]
+
+==== License
+
+WTFPL (de facto public domain).  See link:COPYING[COPYING] for details.
+
+==== Contributing
+
+Be aware that everything in this directory will be licensed under termns of
+WTFPL.  Don't make a pull request if it doesn't suit you.
+
+==== Browser compatibility
+
+Tested with Greasemonkey on Firefox.
+
+Nevertheless, should work on all modern browsers, including Internet Explorer
+https://caniuse.com/#feat=queryselector[since version 9].
+
+For older browsers, the original el nino's script is recommended.
+
+==== See also
+
+- https://greasyfork.org/en/scripts/31838-ssc-bigger-go-to-new-post -- original
+  script by el nino
