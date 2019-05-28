@@ -2,7 +2,7 @@
 // @name          Stubborn
 // @description   In case of DB error, refresh page.
 // @description:pl Automatycznie odświeża popsute strony.
-// @version       1
+// @version       2
 // @namespace     https://github.com/skalee/ssc-grease
 // @author        me
 // @license       Unlicense
@@ -12,6 +12,7 @@
 // @run-at        document-end
 // @include       https://www.skyscrapercity.com/showthread.php?*
 // @include       https://www.skyscrapercity.com/showpost.php?*
+// @include       https://www.skyscrapercity.com/member.php?*
 // @include       https://www.skyscrapercity.com/usercp.php
 // ==/UserScript==
 
