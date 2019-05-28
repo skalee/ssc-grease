@@ -39,6 +39,13 @@ image::pics/likes-counter.png[Preview]
 
 (link:likes-counter[more])
 
+=== Stubborn
+
+Detects "Database Error" pages, and perserveringly reloads them until it
+succeeds.
+
+(link:stubborn[more])
+
 == License
 
 May vary, but always FLOSS or public domain.  See respective READMEs.
