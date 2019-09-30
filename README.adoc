@@ -39,6 +39,21 @@ image::pics/likes-counter.png[Preview]
 
 (link:likes-counter[more])
 
+=== Links To Tweets
+
+Adds clickable links to quoted tweets.
+
+If you block 3rd party content, tweets will not be displayed on page.  Quite
+possibly, you won't even notice that something was intended to be shown.
+Thanks to this script, a regular link will appear, so you can click it,
+and read the tweet on Twitter.
+
+Preview:
+
+image::pics/links-to-tweets.png[Preview]
+
+(link:links-to-tweets[more])
+
 === Stubborn
 
 Detects "Database Error" pages, and perserveringly reloads them until it
